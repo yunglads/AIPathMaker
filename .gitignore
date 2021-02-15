@@ -1,0 +1,7 @@
+AI PathMaker.sln
+Assembly-CSharp.csproj
+Library/
+UserSettings/
+Logs/
+obj/
+Packages/
